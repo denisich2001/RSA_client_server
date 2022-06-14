@@ -1,2 +1,3 @@
 # RSA_client_server
-simple RSA encryption on python
+Tiny client-server python application, that implements RSA encryption of a message from the server. 
+The project was implemented for educational purposes
